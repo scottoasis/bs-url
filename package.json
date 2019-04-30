@@ -1,5 +1,5 @@
 {
-  "name": "@yamadayuki/bs-url",
+  "name": "@scottoasis/bs-url",
   "description": "url module bindings for ReasonML",
   "version": "0.3.0",
   "author": "yamadayuki",
